@@ -2,6 +2,8 @@
 
 This is [Ashish](https://ashishkr568.github.io/). I am a Data Scientist with experience in providing insightful data-driven solutions to customers in multiple domains such as energy, media, networking, healthcare and construction. These end to end solutions includes data mining, ETL tasks, data exploration/visualization, predictive modelling (using statistical methods and machine learning algorithms), model deployment and its maintenance/retraining.
 
+I am an avid traveller who loves to go on long drives, explore places/cultures, go for hikes/treks and sometimes cook good Indian cuisine. Being a proud dog father, I also love travelling and playing with my pup Tyson.
+
 
 ## Digital Skills:
 
