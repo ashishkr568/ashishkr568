@@ -21,7 +21,7 @@ This is [Ashish](https://ashishkr568.github.io/). I am a Data Scientist with exp
 
 ## Connect me 
 
-[![LinkedIn][1]][2]         [![GitHub][3]][4]      [![Medium][5]][6]
+[![LinkedIn][1]][2] &emsp;        [![GitHub][3]][4]  &emsp;    [![Medium][5]][6]      &emsp;    [![thehalfhuman][7]][8]  
 
 [1]:  https://github.com/ashishkr568/generic-repo/blob/main/Linkedin.png
 [2]:  https://www.linkedin.com/in/ashish568/
@@ -29,7 +29,8 @@ This is [Ashish](https://ashishkr568.github.io/). I am a Data Scientist with exp
 [4]:  https://github.com/ashishkr568
 [5]:  https://github.com/ashishkr568/generic-repo/blob/main/medium.png
 [6]:  https://medium.com/@ashish.568
-[7]:  https://github.com/ashishkr568/LinkedIn-wordcloud/blob/main/LinkedIn_BG_Img.png
+[7]:  https://github.com/ashishkr568/generic-repo/blob/main/TheHalfHuman.png
+[8]:  https://ashishkr568.github.io/
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ashishkr.568)
 
