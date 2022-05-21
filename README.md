@@ -7,13 +7,13 @@ This is [Ashish](https://ashishkr568.github.io/). I am a Data Scientist with exp
 
 <code><img height="20" src="https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python&logoColor=306998"></code>
 <code><img height="20" src="https://img.shields.io/badge/-RStudio-ffffff?style=flat-square&logo=RStudio&logoColor=#3686d3"></code>
-<code><img height="20" src="https://img.shields.io/badge/-VBA for Excel-1d6f42?style=flat-square&logo=Microsoft Excel&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-VBA for Excel-1d6f42?style=flat-square&logo=Microsoft Excel&logoColor=white"></code><br><br>
 <code><img height="20" src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=HTML5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20Azure-46a2f1?style=flat-square&logo=Microsoft%20Azure&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white"></code><br><br>
+<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20Azure-46a2f1?style=flat-square&logo=Microsoft%20Azure&logoColor=white"></code><br><br>
 <code><img height="20" src="https://img.shields.io/badge/-Microsoft SQL Server-white?style=flat-square&logo=Microsoft SQL Server&logoColor=red"></code>
-<code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue"></code>
-<code><img height="20" src="https://img.shields.io/badge/-Power BI-F7B93E?style=flat-square&logo=Power BI&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue"></code><br><br>
+<code><img height="20" src="https://img.shields.io/badge/-Power BI-F7B93E?style=flat-square&logo=Power BI&logoColor=white"></code><br><br>
 <code><img height="20" src="https://img.shields.io/badge/-Windows-46a2f1?style=flat-square&logo=Windows&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Linux-46a2f1?style=flat-square&logo=Linux&logoColor=000000"></code>
 
